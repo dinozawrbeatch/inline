@@ -53,6 +53,10 @@ input[type=submit] {
     margin: auto;
 }
 
+.titles{
+    margin: 10px;
+}
+
 #content{
     align-items: center;
 }
